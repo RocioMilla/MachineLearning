@@ -1,0 +1,10 @@
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\bin\Release\netcoreapp2.1\MachineLearning.deps.json
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\bin\Release\netcoreapp2.1\MachineLearning.runtimeconfig.json
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\bin\Release\netcoreapp2.1\MachineLearning.runtimeconfig.dev.json
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\bin\Release\netcoreapp2.1\MachineLearning.dll
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\bin\Release\netcoreapp2.1\MachineLearning.pdb
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\obj\Release\netcoreapp2.1\MachineLearning.csproj.CoreCompileInputs.cache
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\obj\Release\netcoreapp2.1\MachineLearning.AssemblyInfoInputs.cache
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\obj\Release\netcoreapp2.1\MachineLearning.AssemblyInfo.cs
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\obj\Release\netcoreapp2.1\MachineLearning.dll
+C:\Users\Juanjo\source\repos\MachineLearning\MachineLearning\obj\Release\netcoreapp2.1\MachineLearning.pdb
